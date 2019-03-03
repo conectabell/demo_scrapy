@@ -8,7 +8,7 @@ from scrapy.utils.project import get_project_settings
 Lista todas las URL de un sitio web.
 """
 
-DOMAIN = 'entrenamientoactoral.com'
+DOMAIN = 'example.com'
 # URL = 'http://%s' % DOMAIN
 
 
